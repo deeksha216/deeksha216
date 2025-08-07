@@ -1,5 +1,15 @@
 # 💫 About Me:
-Passionate about Artificial Intelligence and Machine Learning<br><br>Strong interest in building real-world tech solutions<br><br>Enthusiastic about programming and software development<br><br>Skilled in Python, C, C++, Java, HTML, CSS, and Flask<br><br>Committed to continuous learning and self-improvement
+🤖 Passionate about Artificial Intelligence and Machine Learning
+
+💡 Strong interest in building real-world tech solutions
+
+👩‍💻 Enthusiastic about programming and software development
+
+💻 Skilled in Python, C, C++, Java, HTML, CSS, and Flask
+
+📚 Committed to continuous learning and self-improvement
+
+
 
 
 ## 🌐 Socials:
